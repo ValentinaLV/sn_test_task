@@ -6,7 +6,7 @@ click==7.1.1
 Django==3.0.5
 django-crispy-forms==1.9.0
 django-extensions==2.2.9
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 environs==7.3.1
 idna==2.9
